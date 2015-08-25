@@ -18,3 +18,18 @@ Named Colors: http://bit.ly/1g8MdPc
 
 
 
+p {
+	color:#2D936C;
+}
+h1 {
+	text-align: center;
+}
+a {
+	text-decoration:none;
+}
+body {
+	font-family: HelveticaNeue-Light, sans-serif;
+}
+.container {
+	background-color: #391463;
+}
