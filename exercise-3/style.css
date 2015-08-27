@@ -12,6 +12,9 @@ a {
   text-decoration: none
 }
 
+a:hover {
+  font-weight:bold;
+}
 html {
   font-family: Helvetica Neue, Arial;
   background: whitesmoke;
@@ -25,6 +28,13 @@ h1 {
 
 img {
   padding-right: 10px;
+  float: left;
+}
+
+.image-2 {
+  float: right;
+  position: relative;
+  display: inline-block;
 }
 
 nav li {
@@ -41,6 +51,23 @@ nav{
   border: 1px solid gray;
 }
 
+#about {
+  border: 1px solid green;
+}
+.highlight {
+  background-color: yellow;
+}
+
+p #about {
+  margin-left: 30px;
+}
+
+blockquote {
+  background: url(http://bit.ly/1IlHeMx);
+}
+nav a {
+  color: blue;
+}
 
 /*******************************************************************************
 
